@@ -1,3 +1,8 @@
+![](assets/img/girl-1822480_1920.jpg)
+
+> Styles: [English](README.md), [Odia](Odia.md), [Translated](Translated.md).<br>
+> [Click here to listen](https://www.youtube.com/watch?v=TODO).
+
 ```
 Whatever you give, you go out,
 All your donations are great,
@@ -32,4 +37,5 @@ All your donations. ... (6)
 
 > Sadly, his heart burns in solitude to God.
 
-- Snigdha Rani Sahu
+- Poem by Snigdharani Sahoo
+- Image by Sasin Tipchai from Pixabay

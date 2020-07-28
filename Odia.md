@@ -1,3 +1,8 @@
+![](assets/img/girl-1822480_1920.jpg)
+
+> Styles: [English](README.md), [Odia](Odia.md), [Translated](Translated.md).<br>
+> [Click here to listen](https://www.youtube.com/watch?v=TODO).
+
 #### ଯାହା ତ ଦେଇଛ, ତୁମେ ଚଉ ବାହା,
 #### ସବୁତ ତୁମରି ଦାନ ମାହା ବାହୁ,
 #### ସବୁତ ତୁମରି ଦାନ,
@@ -42,4 +47,5 @@
 
 > ଦୁଃଖୀ ତାର ଅନ୍ତର ଦହନ କୁ ଏକାନ୍ତ ରେ ପରବ୍ରହ୍ମ ଙ୍କ ଠାରେ ପରିପ୍ରକାଶ କରେ।
 
-- ସ୍ନିଗ୍ଧା ରାଣୀ ସାହୁ
+- Poem by ସ୍ନିଗ୍ଧା ରାଣୀ ସାହୁ
+- Image by Sasin Tipchai from Pixabay
